@@ -1,0 +1,13 @@
+.wrapper {
+    margin:5px;
+}
+
+h1 {
+    text-align:center;
+}
+
+.example1 {
+    width:80%;
+    height:100px;
+    background-color:purple;
+}

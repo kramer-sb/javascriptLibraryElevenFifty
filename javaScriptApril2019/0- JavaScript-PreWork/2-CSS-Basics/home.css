@@ -1,0 +1,28 @@
+body { 
+    --white: rgb(253, 249, 243); 
+    --pink: #bbada0; 
+    --lav: #a1869e; 
+    --rhy: #797596;
+    --blue: #0b1d51;
+  } 
+
+body {
+    background-color: var(--white);
+}
+  h1 { 
+    font-family: 'Montserrat', sans-serif;
+    color: var(--blue); 
+    word-spacing: 4px; 
+  }
+ 
+   p { 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px; 
+    line-height: 1.5; 
+    padding-bottom: 27px
+  }
+  .socialmed {
+    text-align: center;
+}
+
+ 
