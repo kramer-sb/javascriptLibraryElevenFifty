@@ -1,0 +1,31 @@
+body {
+font-family: 'Dosis', sans-serif;
+font-family: 'Economica', sans-serif;
+background-color: #FBFBFB;
+}
+
+h1 {
+    font-size:35px;
+    color: #38333F;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #6B7F92;
+    text-align: center;
+  }
+
+  h3, h4 {
+    font-size:22px;
+    color: ##6B7F92;
+    text-align: center;
+  }
+
+.parallax { 
+	background-image: url(https://images.pexels.com/photos/459522/pexels-photo-459522.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); 
+	min-height: 800px; 
+	background-attachment: fixed; 
+	background-position: center; 
+	background-repeat: no-repeat; 
+	background-size: cover; 
+} 
